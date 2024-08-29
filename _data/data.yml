@@ -1,17 +1,13 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    position: left # Moved sidebar to the left
+    about: True # "How to use?" section enabled
+    education: False # Education section moved to main section
 
     # Profile information
     name: BISHAL TIMSINA
-    tagline: Passionate About Cybersecurity 
+    tagline: Passionate About Cybersecurity
     avatar: profile_picture.png
-    #Avatar is linked with my facebook profile if profile is changed then the avatar will also change
+    # Avatar is linked with my Facebook profile; if the profile changes, the avatar will also change
     
     # Sidebar links
     email: timsinabishal232@gmail.com
@@ -34,9 +30,9 @@ sidebar:
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-    languages:
-      title: Languages
-      info:
+languages:
+    title: Languages
+    info:
         - idiom: Nepali
           level: Native
 
@@ -46,9 +42,9 @@ sidebar:
         - idiom: Hindi
           level: Professional
 
-    interests:
-      title: Interests
-      info:
+interests:
+    title: Interests
+    info:
         - item: Singing
           link:
 
@@ -61,27 +57,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        I am passionate about cybersecurity and ethical hacking and look forward to applying my
-        skills and knowledge in a professional setting. I am highly motivated, detail-oriented, and
-        committed to continuous learning and development in this dynamic eld. To work with all of
-        my skills and experience for practical use of IT technologies and wish to work in an
-        organization where I can sharpen my skills, expand my knowledge and work for the welfare
-        of the human race
+      Summarize your career here with a focus on key accomplishments and goals. You can [download this free resume/CV template here]().
+      Highlight your experience and skills. Add a second paragraph if needed to cover additional aspects of your career.
+
 education:
     title: Education
     info:
-      - degree: BSc(Hons) Ethical Hacking and Cybersecurity
-        university: Softwarica College of IT and E-commerce
-        time: 2022 - Ongoing
-        
-      - degree: High School in Science(3.53)
-        university: Southwestern State College
-        time: 2020-2022
-        
-      - degree: Schooling(3.95)
-        university: Mechi English Boarding School
-        time: 2006-2020
-        
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
+        details: |
+          Describe your study here with specifics on your coursework and research. Add bullet points for significant achievements or projects.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+          Describe your study here with specifics on your coursework and research. Add bullet points for significant achievements or projects.
+            - Bullet point
+            - Bullet point
 
 experiences:
     title: Experiences
@@ -90,37 +85,21 @@ experiences:
         time: 2015 - Present
         company: Startup Hubs, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          Describe your role here with a focus on key responsibilities and accomplishments. Use bullet points for specific achievements.
             - Bullet point
             - Bullet point
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Describe your role here with a focus on key responsibilities and accomplishments. Use bullet points for specific achievements.
             - Bullet point
             - Bullet point
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Describe your role here with a focus on key responsibilities and accomplishments. Use bullet points for specific achievements.
             - Bullet point
             - Bullet point
 
@@ -135,46 +114,28 @@ certifications:
           credentialurl: www.google.com
           credentialname: Google
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Details about certification. Include achievements and skills gained.
+            Summarize the learning experience and impact on your career.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - name: Git Learning
           start: 2019
-          end:
+          end: 2020
           organization: Microsoft
           credentialid: 111-222
           credentialurl: www.github.com
           credentialname: Github
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Older certification. Summarize the key skills and knowledge acquired.
+            Highlight how this certification has contributed to your professional growth.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      List your side projects here, highlighting your involvement and contributions. Provide a brief description for each project.
     assignments:
       - title: Velocity
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A responsive website template designed to help startups promote, market, and sell their products."
 
       - title: DevStudio
         link: "#"
@@ -182,7 +143,7 @@ projects:
 
       - title: Tempo
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors."
 
       - title: Atom
         link: "#"
@@ -190,18 +151,16 @@ projects:
 
       - title: Delta
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A responsive Bootstrap one-page theme designed to help app developers promote their mobile apps."
 
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      List your open-source software contributions here. Provide a brief description of each contribution and its impact.
     contributions:
       - title: Tempo
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors."
 
       - title: Atom
         link: "#"
@@ -209,14 +168,12 @@ oss:
 
       - title: Delta
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A responsive Bootstrap one-page theme designed to help app developers promote their mobile apps."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      List your publications here, including papers, articles, and books. Provide a brief description and relevant details.
     papers:
       - title: The Art of Computer Programming
         link: "#"
@@ -228,7 +185,7 @@ publications:
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: A Syntax Directed Compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
@@ -257,3 +214,17 @@ skills:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
+    Fork the Repository: Please fork this repo: https://github.com/sharu725/online-cv.
+
+    Clone and Build: Clone the repository and start building your own portfolio site.
+
+    Personalize the Portfolio: Add the necessary information to make the portfolio your own. Remove sections that are not required or do not make sense to you.
+
+    Add Blog Feature: Include a feature for blogs. Add a button somewhere below the profile image that links to the blog listing page.
+
+    PDF CV Download: Add a button that allows users to download a PDF version of your CV. For now, a simple PDF download will suffice.
+
+    Project Listing Page: Create a separate project listing page that displays all your projects.
+
+    Theme Modification: Moved the right-hand column of the theme to the left-hand side. Ensure the site is visually appealing on mobile devices.
