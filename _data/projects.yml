@@ -1,0 +1,8 @@
+projects:
+  - title: "Project 1"
+    description: "Description of Project 1"
+    link: "/assets/images/project1.pdf"
+  - title: "Project 2"
+    description: "Description of Project 2"
+    link: "/assets/images/project2.pdf"
+  # Add more projects as needed
