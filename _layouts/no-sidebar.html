@@ -8,10 +8,9 @@
 {% include head.html %}
 
 <body>
-  <div class="wrapper">
-          <!-- Sidebar is removed here -->
-
-    <div class="main-wrapper">
+  <div class="wrapper" style="display: flex; justify-content: center;"> <!-- Adjusting for full width -->
+    
+    <div class="main-wrapper" style="flex: 1;"> <!-- Ensure content takes full width -->
         {{ content }}
     </div>
   </div>
