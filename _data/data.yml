@@ -127,7 +127,15 @@ certifications:
           details: |
             Engaged in the Softwarica CTF, further developing problem-solving abilities in cybersecurity through
             various capture the flag exercises.
-
+      - name: AWS
+        start: 2024
+        end: 
+        organization: ipay.com
+        credentialid: 222-333
+        credentialurl: "awsrestart.instructure.com/"
+        credentialname: AWS Cloud
+        details: |
+          Completed AWS certification, acquiring knowledge in cloud services and management provided by ipay.com.
 projects:
     title: Projects
     intro: >
