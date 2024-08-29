@@ -8,16 +8,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+    name: BISHAL TIMSINA
+    tagline: Passionate About Cybersecurity 
+    avatar: https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-1/420184779_1608718229966837_5432455141878140983_n.jpg?stp=dst-jpg_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeFPPEo7_3ibxYSWUouKNAivrI4Up-1DNtusjhSn7UM22_hZUXOkiWoVjwlb_awOLGAR4GMMgZRxlvpfHKotcj-B&_nc_ohc=rSmKmtt8BAMQ7kNvgE-w_W8&_nc_ht=scontent.fktm8-1.fna&oh=00_AYAZHx50jdjaua9NGfPpGp58Of6DnZ1lC_uUANC7-HnCeA&oe=66D5E1BC 
+    #Avatar is linked with my facebook profile if profile is changed then the avatar will also change
+    
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    email: timsinabishal232@gmail.com
+    phone:+9779806053220
+    timezone: Asia/Kathmandu # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: Nepal
+    website: https://timsinalaxmi.com.np/ # Include the full website URL, including "http://" or "https://".
     linkedin: alandoe
     xing: alandoe
     github: jekyll
