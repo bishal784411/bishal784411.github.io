@@ -208,37 +208,24 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Penetration Testing
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: HTML, PHP, CSS &amp; JS
+        level: 70%
 
       - name: Angular
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Scripting (Python, Bash)
+        level: 75%
 
-      - name: Ruby on Rails
+      - name: Backend
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Networking
+        level: 80%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+     - name: Research Skills
+        level: 90%
 
-    Fork the Repository: Please fork this repo: https://github.com/sharu725/online-cv.
-
-    Clone and Build: Clone the repository and start building your own portfolio site.
-
-    Personalize the Portfolio: Add the necessary information to make the portfolio your own. Remove sections that are not required or do not make sense to you.
-
-    Add Blog Feature: Include a feature for blogs. Add a button somewhere below the profile image that links to the blog listing page.
-
-    PDF CV Download: Add a button that allows users to download a PDF version of your CV. For now, a simple PDF download will suffice.
-
-    Project Listing Page: Create a separate project listing page that displays all your projects.
-
-    Theme Modification: Moved the right-hand column of the theme to the left-hand side. Ensure the site is visually appealing on mobile devices.
