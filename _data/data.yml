@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: BISHAL TIMSINA
     tagline: Passionate About Cybersecurity 
-    avatar: https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-1/420184779_1608718229966837_5432455141878140983_n.jpg?stp=dst-jpg_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeFPPEo7_3ibxYSWUouKNAivrI4Up-1DNtusjhSn7UM22_hZUXOkiWoVjwlb_awOLGAR4GMMgZRxlvpfHKotcj-B&_nc_ohc=rSmKmtt8BAMQ7kNvgE-w_W8&_nc_ht=scontent.fktm8-1.fna&oh=00_AYAZHx50jdjaua9NGfPpGp58Of6DnZ1lC_uUANC7-HnCeA&oe=66D5E1BC 
+    avatar: profile_pic.jpg 
     #Avatar is linked with my facebook profile if profile is changed then the avatar will also change
     
     # Sidebar links
@@ -19,9 +19,9 @@ sidebar:
     timezone: Asia/Kathmandu # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Nepal
     website: https://timsinalaxmi.com.np/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
+    linkedin: @bishal-timsina-aa381b263
     facebook: @bishal.timsina.2002
-    github: jekyll
+    github: @bishal784411
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
