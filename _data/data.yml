@@ -57,7 +57,7 @@ sidebar:
 
         - item: Travelling
           link:
-
+---
 career-profile:
     title: Career Profile
     summary: |
@@ -67,25 +67,26 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-education:
-   ## Education
-    ### Schooling
-    **Mechi English Boarding School**  
-    *2006 - 2020*  
-    GPA: 3.95
-    
-    ### High School
-    **Southwestern State College**  
-    *2020 - 2022*  
-    Stream: Science  
-    GPA: 3.53
-    
-    ### Bachelor
-    **Softwarica College of IT and E-Commerce**
-    Stream: BSc (Hons.) Ethical Hacking and Cybersecurity  
-    *2022 - Ongoing*  
-    
+---
 
+title: Education
+info:
+  - degree: BSc (Hons.) Ethical Hacking and Cybersecurity
+    university: Softwarica College of IT and E-Commerce
+    time: 2022 - Ongoing
+    details: |
+      Currently pursuing a Bachelor's degree with a focus on Ethical Hacking and Cybersecurity.
+  - degree: High School
+    university: Southwestern State College
+    time: 2020 - 2022
+    details: |
+      Stream: Science
+      GPA: 3.53
+  - degree: Schooling
+    university: Mechi English Boarding School
+    time: 2006 - 2020
+    details: |
+      GPA: 3.95
 
 experiences:
     title: Experiences
