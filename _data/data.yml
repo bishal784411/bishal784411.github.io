@@ -112,7 +112,7 @@ certifications:
           end: 
           organization: Softwarica College
           credentialid: 111-222
-          credentialurl: www.google.com
+          credentialurl: "drive.google.com/file/d/1WSUUXREp2LGZzDIITc2TQ_sOuimuZUw4/view?usp=drive_link"
           credentialname: HTB
           details: |
             Participated in Hack The Box CTF Bootcamp, gaining hands-on experience in capture the flag challenges
@@ -122,7 +122,7 @@ certifications:
           end:
           organization: Softwarica College
           credentialid: 111-222
-          credentialurl: "https://drive.google.com/file/d/1WVjXGTBiP-m5rvpTUIe4AgXrxeK9hEXX/view?usp=drive_link"
+          credentialurl: "drive.google.com/file/d/1WVjXGTBiP-m5rvpTUIe4AgXrxeK9hEXX/view?usp=drive_link"
           credentialname: CTF
           details: |
             Engaged in the Softwarica CTF, further developing problem-solving abilities in cybersecurity through
