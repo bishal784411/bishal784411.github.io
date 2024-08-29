@@ -63,15 +63,16 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Schooling
-        institution: Mechi English Boarding School
-        time: 2006 - 2020
+        - degree: Bachelor
+        institution: Softwarica College of IT and E-commerce
+        time: 2022 - Ongoing
+        program: BSc (Hons.) Ethical Hacking and Cybersecurity
         details: |
-          Completed schooling with a focus on foundational education. Achieved a GPA of 3.95.
-            - Strong academic performance
-            - Active participation in extracurricular activities
-
-      - degree: High School
+          Currently pursuing a Bachelor’s degree focusing on Ethical Hacking and Cybersecurity. Engaged in coursework and practical projects related to cybersecurity.
+            - Developing skills in penetration testing and network security
+            - Participation in cybersecurity bootcamps and CTF challenges
+            
+        - degree: High School
         institution: Southwestern State College
         time: 2020 - 2022
         stream: Science
@@ -80,14 +81,15 @@ education:
             - In-depth study of scientific subjects
             - Involvement in science-related projects and activities
 
-      - degree: Bachelor
-        institution: Softwarica College of IT and E-commerce
-        time: 2022 - Ongoing
-        program: BSc (Hons.) Ethical Hacking and Cybersecurity
+      - degree: Schooling
+        institution: Mechi English Boarding School
+        time: 2006 - 2020
         details: |
-          Currently pursuing a Bachelor’s degree focusing on Ethical Hacking and Cybersecurity. Engaged in coursework and practical projects related to cybersecurity.
-            - Developing skills in penetration testing and network security
-            - Participation in cybersecurity bootcamps and CTF challenges
+          Completed schooling with a focus on foundational education. Achieved a GPA of 3.95.
+            - Strong academic performance
+            - Active participation in extracurricular activities
+
+
 
 
 experiences:
