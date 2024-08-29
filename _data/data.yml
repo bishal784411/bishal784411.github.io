@@ -107,59 +107,26 @@ experiences:
 certifications:
       title: Certifications
       list:
-         - name: Hack The Box CTF Bootcamp
-            start: 2023
-            end:
-            organization: Softwarica College
-            credentialid: 
-            credentialurl: https://drive.google.com/file/d/1WSUUXREp2LGZzDIITc2TQ_sOuimuZUw4/view?usp=drive_link
-            credentialname: HTB
-            details: |
-              Participated in Hack The Box CTF Bootcamp, gaining hands-on experience in capture the flag challenges
-              and cybersecurity skills.
-        
-          - name: Softwarica CTF
-            start: 2023
-            end: 
-            organization: Softwarica College of IT and E-Commerce
-            credentialid: 
-            credentialurl: https://drive.google.com/file/d/1WdInGK6SCkikJLGAq48p1ZvHI76u2l9H/view?usp=drive_link
-            credentialname: CTF
-            details: |
-              Engaged in the Softwarica CTF, further developing problem-solving abilities in cybersecurity through
-              various capture the flag exercises.
-        
-          - name: Softwarica CTF
-            start: 2024
-            end: 
-            organization: Softwarica College of IT and E-Commerce
-            credentialid: 
-            credentialurl: https://drive.google.com/file/d/1WVjXGTBiP-m5rvpTUIe4AgXrxeK9hEXX/view?usp=drive_link
-            credentialname: CTF
-            details: |
-              Participated in the 2024 Softwarica CTF, enhancing skills in cybersecurity and capture the flag
-              competitions.
-        
-          - name: Capture The Flag
-            start: 2024
-            end: Ongoing
-            organization: Softwarica College of IT and E-Commerce
-            credentialid: 
-            credentialurl: 
-            credentialname: CTF
-            details: |
-              Took part in the Capture The Flag competition, which focused on practical challenges in the field of
-              cybersecurity.
-        
-          - name: AWS Cloud
-            start: 2024
-            end: 2024
-            organization: ipay.com
-            credentialid: 
-            credentialurl: 
-            credentialname: AWS
-            details: |
-              Completed AWS certification, acquiring knowledge in cloud services and management provided by ipay.com.
+        - name: HACK THE BOX CTF BOOTCAMP
+          start: 2023
+          end: 
+          organization: Softwarica College
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: HTB
+          details: |
+            Participated in Hack The Box CTF Bootcamp, gaining hands-on experience in capture the flag challenges
+            and cybersecurity skills.
+        - name: Capture The Flag
+          start: 2023
+          end:
+          organization: Softwarica College
+          credentialid: 111-222
+          credentialurl: "https://drive.google.com/file/d/1WVjXGTBiP-m5rvpTUIe4AgXrxeK9hEXX/view?usp=drive_link"
+          credentialname: CTF
+          details: |
+            Engaged in the Softwarica CTF, further developing problem-solving abilities in cybersecurity through
+            various capture the flag exercises.
 
 projects:
     title: Projects
