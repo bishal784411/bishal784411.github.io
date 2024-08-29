@@ -1,10 +1,16 @@
 {% assign cv = site.data.sidebar.cv %}
 <div class="cv-download">
-  <a href="{{ site.baseurl }}/assets/images/laxmi.pdf" class="download-btn" download>{{ cv.text }}</a>
+  <a href="{{ site.baseurl }}/assets/images/Laxmi.pdf" class="download-btn" download>
+    {{ cv.text }}
+  </a>
 </div>
 
 <!-- Inline CSS for the download button -->
 <style>
+  .cv-download {
+      text-align: center; /* Center the button within its container */
+  }
+  
   .cv-download .download-btn {
       display: inline-block;
       padding: 10px 20px;
