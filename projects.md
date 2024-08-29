@@ -1,4 +1,5 @@
 ---
+layout: no-sidebar
 title: Projects
 ---
 
