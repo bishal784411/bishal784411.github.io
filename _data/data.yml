@@ -2,6 +2,7 @@ sidebar:
     position: right # Moved sidebar to the left
     about: True # "How to use?" section enabled
     education: False # Education section moved to main section
+    language: True
 
     # Profile information
     name: BISHAL TIMSINA
