@@ -1,8 +1,3 @@
----
-title: Education
-date: 2022-06-03 00:00:00 +0000
-categories: School
----
 
 ## Education
 
