@@ -1,39 +1,42 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
 sidebar:
-    position: right
-    about: True
-    education: False
-    language: True
+    position: right # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Bishal Timsina
-    tagline: Passionate About Cybersecurity
+    name: BISHAL TIMSINA
+    tagline: Passionate About Cybersecurity 
     avatar: profile_picture.png
-    # Avatar is linked with my Facebook profile; if the profile changes, the avatar will also change
-
+    #Avatar is linked with my facebook profile if profile is changed then the avatar will also change
+    
     # Sidebar links
     email: timsinabishal232@gmail.com
     phone: +9779806053220
-    timezone: Asia/Kathmandu
+    timezone: Asia/Kathmandu # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Nepal
-    website: https://timsinalaxmi.com.np/
+    website: https://timsinalaxmi.com.np/ # Include the full website URL, including "http://" or "https://".
     linkedin: bishal-timsina-aa381b263
     facebook: bishal.timsina.2002
     github: bishal784411
-    telegram: 
+    telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: @Apocalypse232
-    stack-overflow:
+    twitter: '@Apocalypse232'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads:
-    mastodon:
-    hackerrank:
-    leetcode:
-    pdf:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    mastodon:  # Please include your full Mastodon link here.
+    hackerrank: # Please provide your HackerRank username.
+    leetcode: # Please provide your LeetCode username.
+    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-languages:
-    title: Languages
-    info:
+    languages:
+      title: Languages
+      info:
         - idiom: Nepali
           level: Native
 
@@ -43,9 +46,9 @@ languages:
         - idiom: Hindi
           level: Professional
 
-interests:
-    title: Interests
-    info:
+    interests:
+      title: Interests
+      info:
         - item: Singing
           link:
 
@@ -58,36 +61,37 @@ interests:
 career-profile:
     title: Career Profile
     summary: |
-      Summarize your career here with a focus on key accomplishments and goals. You can [download this free resume/CV template here]().
-      Highlight your experience and skills. Add a second paragraph if needed to cover additional aspects of your career.
-
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
     info:
-        - degree: BSc (Hons.) Ethical Hacking and Cybersecurity
-          institution: Softwarica College of IT and E-commerce
-          time: 2022 - Ongoing
-          details: |
-            Currently pursuing a Bachelor’s degree focusing on Ethical Hacking and Cybersecurity. Engaged in coursework and practical projects related to cybersecurity.
-              - Developing skills in penetration testing and network security
-              - Participation in cybersecurity bootcamps and CTF challenges
-            
-        - degree: High School
-          institution: Southwestern State College
-          time: 2020 - 2022
-          stream: Science
-          details: |
-            Completed high school with a concentration in Science. Achieved a GPA of 3.53.
-              - In-depth study of scientific subjects
-              - Involvement in science-related projects and activities
-
-        - degree: Schooling
-          institution: Mechi English Boarding School
-          time: 2006 - 2020
-          details: |
-            Completed schooling with a focus on foundational education. Achieved a GPA of 3.95.
-              - Strong academic performance
-              - Active participation in extracurricular activities
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 experiences:
     title: Experiences
@@ -96,29 +100,43 @@ experiences:
         time: 2015 - Present
         company: Startup Hubs, San Francisco
         details: |
-          Describe your role here with a focus on key responsibilities and accomplishments. Use bullet points for specific achievements.
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-            
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
         details: |
-          Describe your role here with a focus on key responsibilities and accomplishments. Use bullet points for specific achievements.
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-            
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
         details: |
-          Describe your role here with a focus on key responsibilities and accomplishments. Use bullet points for specific achievements.
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
 
 certifications:
-    title: Certifications
-    list:
+      title: Certifications
+      list:
         - name: CV Builder
           start: 2020
           end: 2021
@@ -127,28 +145,46 @@ certifications:
           credentialurl: www.google.com
           credentialname: Google
           details: |
-            Details about certification. Include achievements and skills gained.
-            Summarize the learning experience and impact on your career.
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
 
-        - name: Git Learning
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Git learning
           start: 2019
-          end: 2020
+          end:
           organization: Microsoft
           credentialid: 111-222
           credentialurl: www.github.com
           credentialname: Github
           details: |
-            Older certification. Summarize the key skills and knowledge acquired.
-            Highlight how this certification has contributed to your professional growth.
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
     intro: >
-      List your side projects here, highlighting your involvement and contributions. Provide a brief description for each project.
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market, and sell their products."
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
         link: "#"
@@ -156,7 +192,7 @@ projects:
 
       - title: Tempo
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users & investors."
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Atom
         link: "#"
@@ -164,16 +200,18 @@ projects:
 
       - title: Delta
         link: "#"
-        tagline: "A responsive Bootstrap one-page theme designed to help app developers promote their mobile apps."
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
     intro: >
-      List your open-source software contributions here. Provide a brief description of each contribution and its impact.
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
       - title: Tempo
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users & investors."
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Atom
         link: "#"
@@ -181,49 +219,51 @@ oss:
 
       - title: Delta
         link: "#"
-        tagline: "A responsive Bootstrap one-page theme designed to help app developers promote their mobile apps."
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      List your publications here, including papers, articles, and books. Provide a brief description and relevant details.
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
-      - title: Genetic Programming III: Darwinian Invention & Problem Solving
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A Syntax Directed Compiler for Algol 60
+      - title: A syntax directed compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
-        conference: Comm. ACM 4 (1961), 51–55
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills & Proficiency
+    title: Skills &amp; Proficiency
 
     toolset:
-      - name: Penetration Testing
-        level: 75%
+      - name: Python & Django
+        level: 98%
 
-      - name: HTML, PHP, CSS & JS
-        level: 70%
+      - name: Javascript & jQuery
+        level: 98%
 
       - name: Angular
         level: 98%
 
-      - name: Scripting (Python, Bash)
-        level: 75%
+      - name: HTML5 & CSS
+        level: 95%
 
-      - name: Backend Development
+      - name: Ruby on Rails
         level: 85%
 
-      - name: Networking
-        level: 80%
+      - name: Sketch & Photoshop
+        level: 60%
 
-      - name: Research Skills
-        level: 90%
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
