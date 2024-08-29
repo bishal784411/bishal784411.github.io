@@ -57,6 +57,8 @@ sidebar:
 
         - item: Travelling
           link:
+    cv:
+      text: "Download CV"
 
 career-profile:
     title: Career Profile
