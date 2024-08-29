@@ -1,23 +1,128 @@
 ---
 layout: default
+title: Home
 ---
 
+<!-- Navigation Bar -->
+<nav class="navbar">
+  <ul>
+    <li><a href="{{ site.baseurl }}/">Home</a></li>
+    <li><a href="{{ site.baseurl }}/cv">CV</a></li>
+    <li><a href="{{ site.baseurl }}/projects">Projects</a></li>
+    <li><a href="{{ site.baseurl }}_posts/2024-08-29-How-good-i-was-on-getting-hands-dirty.md">Blog</a></li>
+  </ul>
+</nav>
 
-{% include career-profile.html %}
+<!-- Main Content -->
+<div class="main-content">
+  <!-- Welcome Section -->
+  <section class="welcome-section">
+    <h1>Welcome to My Professional Portfolio</h1>
+    <p>Hello! I'm Bishal Timsina, a passionate cybersecurity enthusiast with a focus on ethical hacking and network security. My goal is to leverage my skills and knowledge to contribute to the field of cybersecurity and make a positive impact.</p>
+    <p>Explore my portfolio to learn more about my work, certifications, projects, and blog posts. Feel free to reach out if you have any questions or opportunities for collaboration!</p>
+  </section>
 
-{% unless site.data.data.sidebar.education %}
-  {% include education.html %}
-{% endunless %}
 
-{% include experiences.html %}
 
-{% include certifications.html %}
+  <!-- Include other sections -->
+  {% include career-profile.html %}
 
-{% include projects.html %}
+  {% unless site.data.data.sidebar.education %}
+    {% include education.html %}
+  {% endunless %}
 
-{% include oss-contributions.html %}
+  {% include experiences.html %}
 
-{% include publications.html %}
+  {% include certifications.html %}
 
-{% include skills.html %}
+  {% include projects.html %}
 
+  {% include oss-contributions.html %}
+
+  {% include publications.html %}
+
+  {% include skills.html %}
+</div>
+
+<!-- Footer -->
+<footer>
+  <p>&copy; 2024 Bishal Timsina. All rights reserved.</p>
+</footer>
+
+<!-- Inline CSS for the navbar, layout, and new sections -->
+<style>
+  .navbar {
+    background-color: #333;
+    overflow: hidden;
+  }
+
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .navbar ul li {
+    float: left;
+  }
+
+  .navbar ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .navbar ul li a:hover {
+    background-color: #111;
+  }
+
+  .main-content {
+    padding: 20px;
+  }
+
+  .welcome-section {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .welcome-section h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+
+  .welcome-section p {
+    font-size: 1.2em;
+    line-height: 1.5;
+  }
+
+  .key-skills-section, .recent-projects-section {
+    margin-bottom: 20px;
+  }
+
+  .key-skills-section h2, .recent-projects-section h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+
+  .key-skills-section ul, .recent-projects-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .key-skills-section li, .recent-projects-section li {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+  }
+
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+</style>
