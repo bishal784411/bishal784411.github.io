@@ -12,7 +12,7 @@ sidebar:
     # Sidebar links
     email: timsinabishal232@gmail.com
     phone: +9779806053220
-    timezone: Asia/Kathmandu # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    # timezone: Asia/Kathmandu # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Nepal
     website: https://timsinalaxmi.com.np/ # Include the full website URL, including "http://" or "https://".
     linkedin: bishal-timsina-aa381b263
@@ -63,20 +63,32 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Schooling
+        institution: Mechi English Boarding School
+        time: 2006 - 2020
         details: |
-          Describe your study here with specifics on your coursework and research. Add bullet points for significant achievements or projects.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Completed schooling with a focus on foundational education. Achieved a GPA of 3.95.
+            - Strong academic performance
+            - Active participation in extracurricular activities
+
+      - degree: High School
+        institution: Southwestern State College
+        time: 2020 - 2022
+        stream: Science
         details: |
-          Describe your study here with specifics on your coursework and research. Add bullet points for significant achievements or projects.
-            - Bullet point
-            - Bullet point
+          Completed high school with a concentration in Science. Achieved a GPA of 3.53.
+            - In-depth study of scientific subjects
+            - Involvement in science-related projects and activities
+
+      - degree: Bachelor
+        institution: Softwarica College of IT and E-commerce
+        time: 2022 - Ongoing
+        program: BSc (Hons.) Ethical Hacking and Cybersecurity
+        details: |
+          Currently pursuing a Bachelor’s degree focusing on Ethical Hacking and Cybersecurity. Engaged in coursework and practical projects related to cybersecurity.
+            - Developing skills in penetration testing and network security
+            - Participation in cybersecurity bootcamps and CTF challenges
+
 
 experiences:
     title: Experiences
