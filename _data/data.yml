@@ -144,9 +144,9 @@ certifications:
             start: 2024
             end: Ongoing
             organization: Softwarica College of IT and E-Commerce
-            credentialid:
+            credentialid: 
             credentialurl: 
-            credentialname: 
+            credentialname: CTF
             details: |
               Took part in the Capture The Flag competition, which focused on practical challenges in the field of
               cybersecurity.
@@ -155,8 +155,8 @@ certifications:
             start: 2024
             end: 2024
             organization: ipay.com
-            credentialid: N/A
-            credentialurl: N/A
+            credentialid: 
+            credentialurl: 
             credentialname: AWS
             details: |
               Completed AWS certification, acquiring knowledge in cloud services and management provided by ipay.com.
