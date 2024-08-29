@@ -1,4 +1,4 @@
-<hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 {% assign certifications = site.data.data.certifications %} {% if certifications %}
 <section class="section certifications-section">
   <h2 class="section-title">
@@ -23,7 +23,7 @@
 
       <div class="second-upper-row">
         <div class="cert-org">
-          {{ certifications.organization }} {% if certifications.credentialid %}
+          <b>{{ certifications.organization }}</b> {% if certifications.credentialid %}
           ({{ certifications.credentialid }}) {% endif %}
         </div>
         {% if certifications.credentialurl %}
