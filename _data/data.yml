@@ -71,18 +71,16 @@ education:
     title: Education
     info:
       - degree: BSc(Hons) Ethical Hacking and Cybersecurity
-        university: Softwarica College of IT and E-commerce
+        *university: Softwarica College of IT and E-commerce*
         time: 2022 - Ongoing
         
-      - degree: High School in Science
-        university: Southwestern State College
+      - degree: High School in Science(3.53)
+        *university: Southwestern State College*
         time: 2020-2022
-        GPA: 3.53
         
-      - degree: schooling
-        university: Mechi English Boarding School
+      - degree: Schooling(3.95)
+        *university: Mechi English Boarding School*
         time: 2006-2020
-        GPA: 3.95
         
 
 experiences:
