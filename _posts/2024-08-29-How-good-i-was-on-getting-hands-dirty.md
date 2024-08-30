@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "How Good I Was on Getting Hands Dirty"
-date: 2024-08-29 10:00:00 +0000
-author: "Laxmi Timsina"
-permalink: /blog/how-good-i-was-on-getting-hands-dirty/
+author: Laxmi Timsina
 ---
 
 ## Embracing the Challenge
